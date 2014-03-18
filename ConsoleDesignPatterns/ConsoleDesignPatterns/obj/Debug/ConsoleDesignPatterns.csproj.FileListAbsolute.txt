@@ -1,0 +1,6 @@
+c:\users\ruddyenmanuel\documents\visual studio 2013\Projects\ConsoleDesignPatterns\ConsoleDesignPatterns\bin\Debug\ConsoleDesignPatterns.exe.config
+c:\users\ruddyenmanuel\documents\visual studio 2013\Projects\ConsoleDesignPatterns\ConsoleDesignPatterns\obj\Debug\ConsoleDesignPatterns.csprojResolveAssemblyReference.cache
+c:\users\ruddyenmanuel\documents\visual studio 2013\Projects\ConsoleDesignPatterns\ConsoleDesignPatterns\bin\Debug\ConsoleDesignPatterns.exe
+c:\users\ruddyenmanuel\documents\visual studio 2013\Projects\ConsoleDesignPatterns\ConsoleDesignPatterns\bin\Debug\ConsoleDesignPatterns.pdb
+c:\users\ruddyenmanuel\documents\visual studio 2013\Projects\ConsoleDesignPatterns\ConsoleDesignPatterns\obj\Debug\ConsoleDesignPatterns.exe
+c:\users\ruddyenmanuel\documents\visual studio 2013\Projects\ConsoleDesignPatterns\ConsoleDesignPatterns\obj\Debug\ConsoleDesignPatterns.pdb
